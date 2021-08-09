@@ -1,0 +1,32 @@
+body {
+    margin: 15px;
+    font-family: 'Arimo', sans-serif;
+    text-align: center;
+    color: rgb(54, 54, 54);
+    }
+main {
+    background-color: rgb(230, 230, 230);
+    padding: 15px;
+    border-radius: 5px;
+    }
+h1 {
+       font-size: 40px;
+       padding-bottom: 50;
+       text-transform: uppercase;
+     }
+h3 {
+    font-size: 25px;
+    }
+footer {
+    padding: 30px;
+    background: white;
+    margin: 0;
+    border-radius: 5px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    display: flex;
+    justify-content: center;
+    }
+.footerItem {
+    margin-left: 1em;
+    margin-right: 1em;
+    }
